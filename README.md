@@ -18,10 +18,12 @@
 ### My coding languages of choice!
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/cplusplus.svg">
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/java.svg">
+<img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.svg">
 <img align="left" alt="swift" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/swift.svg">
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/html5.svg">
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/css3.svg">
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/javascript.svg">
+<img align="left" alt="MySQL" width="26px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg">
 <img align="left" alt="postgresql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/postgresql.svg">
 <br>
 
@@ -31,6 +33,9 @@
 <img align="left" alt="apple" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/apple.svg">
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/git.svg">
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg">
+<img align="left" alt="Slack" width="26px" src="https://cdn.worldvectorlogo.com/logos/slack.svg">
+<img align="left" alt="Jira" width="26px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg">
+<img align="left" alt="Bitbucket" width="26px" src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg">
 <br>
 <br>
 
